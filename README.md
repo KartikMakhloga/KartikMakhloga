@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://kartikmakhloga.github.io/Portfolio/]([https://kartikmakhloga.github.io/Portfolio/)](https://kartik-makhloga-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://kartiksblog.hashnode.dev/](https://kartiksblog.hashnode.dev/)
-
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **kartikmakhloga20@gmail.com**
